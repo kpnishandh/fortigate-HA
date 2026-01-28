@@ -1,23 +1,5 @@
 # Fortigate-Firewall-Complete-Guide
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/Fortigate-Firewall-Complete-Guide?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Fortigate-Firewall-Complete-Guide?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Fortigate-Firewall-Complete-Guide.svg?cache=remove)
-
-<br>
-
-[![telegram (1)](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys/assets/85627085/cbc449b9-ddda-4d84-8c5e-5c77e29f89ed)](https://t.me/resourcehub1)
-
-<br>
-
-# SUPPORT ME -- 🚩💲🙏
-### "Welcome to the FortiGate Firewall Complete Guide! This comprehensive GitHub repository offers detailed lab guides and invaluable information for mastering FortiGate firewalls. Created with countless days and nights of dedication, this guide is entirely free for your benefit. If you find it helpful, please consider showing your support with a coffee ☕️ or your best wishes. Your encouragement fuels the continuation of this resource. Thank you for being part of this journey! 🚀🔥 #FortiGate #Firewall #Networking"
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
----
-
-
 <br>
 
 # Lab Resources:
